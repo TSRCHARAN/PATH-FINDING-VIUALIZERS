@@ -17,3 +17,8 @@ Green - Path currently to be explored
 Red - Path already explored
 
 Pink - Optimal Path between Source and Destination
+
+
+VIDEO DEMO :
+
+![DIJKSTRA GIF](https://user-images.githubusercontent.com/90524579/229615349-b93f4622-af82-4da6-875c-f9b4e915dce4.gif)
