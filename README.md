@@ -22,3 +22,9 @@ Pink - Optimal Path between Source and Destination
 VIDEO DEMO :
 
 ![DIJKSTRA GIF](https://user-images.githubusercontent.com/90524579/229615349-b93f4622-af82-4da6-875c-f9b4e915dce4.gif)
+
+
+
+
+https://user-images.githubusercontent.com/90524579/229615476-e625b66f-3339-4753-a825-0785a75ce09f.mp4
+
